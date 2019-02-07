@@ -24,7 +24,7 @@
 	**&nbsp;2.4 Lingkup tanggung jawab**
 	<br>
 
-**3.Proses Manajeria**
+**3.Proses Manajerial**
 	<br>
 	**&nbsp;3.1 Tujuan dan prioritas manajemen**
 	<br>
@@ -36,4 +36,3 @@
 	<br>
 	**&nbsp;3.5 Perencanaan staf**
 	<br>
-	
