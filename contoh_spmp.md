@@ -37,4 +37,26 @@
 	**&nbsp;3.5 Perencanaan staf**
 	<br>
 
+**4. Proses Teknis**
+	<br>
+	**&nbsp;4.1 Metoda, tool, dan tekn**
+	<br>
+	**&nbsp;4.2 Dokumentasi perangkat lunak**
+	<br>
+	**&nbsp;4.3 Fungsi-fungsi petunjuk proyek**
+	<br>
+
+**5. Paket pekerjaan, jadwal, dan budget**
+	<br>
+	**&nbsp;5.1 Paket pekerjaann**
+	<br>
+	**&nbsp;5.2 Ketergantungan/keterkaitan**
+	<br>
+	**&nbsp;5.3 Kebutuhan-kebutuhan sumber daya**
+	<br>
+	**&nbsp;5.4 Alokasi budget dan sumber daya**
+	<br>
+	**&nbsp;5.5 Jadwal**
+	<br>
+
 	
