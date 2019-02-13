@@ -25,6 +25,7 @@
 		<br>
 		&nbsp;Materi  yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses  siklus  hidup  perangkat  lunak.  Dan  juga  standar  IEEE  untuk  membentuk model  yang  diakui  secara  internasional  dari  kehidupan  perangkat  lunak  umum, siklus  proses  yang  dapat  direferensikan  oleh  industri  perangkat  lunak  diseluruh dunia,  untuk  mempromosikan  pemahaman  diantara  pihak  bisnis  dengan  aplikasi umum serta mengakui proses, kegiatan dan tugas.
 		<br>
+		<br>
 		&nbsp;IEEE  adalah  sebuah  organisasi  profesi  nirlaba  yang  terdiri  dari  banyak  ahli dibidang   teknik   yang   mempromosikan   pengembangan   standar-standar   dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong     inovasi     teknologi     dan     kesempurnaan     untuk     kepentingan kemanusiaan.Visi  IEEE  adalah  akan  menjadi  penting  untuk  masyarakat  teknis global  dan  professional  teknis  dimana-mana  dan  dikenal  secara  universal  untuk kontribusi  teknologi  dan  teknis  yang  professional  dalam  meningkatkan  kondisi perkembangan  global.  Standar  dalam  IEEE  adalah  mengatur  fungsi,  kemampuan dan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah cara orang hidup, bekerja dan berkomunikasi.
 	<br>
 	<br>
