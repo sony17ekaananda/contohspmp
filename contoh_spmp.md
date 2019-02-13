@@ -1,13 +1,13 @@
 
 **1. Pendahuluan**
 	<br>
-	**&nbsp;1.1 Gambaran proyek ** 
+	**&nbsp;1.1 Gambaran proyek** 
 	<br>
-	**&nbsp;1.2 Dokumen-dokumen dalam proyek ** 
+	**&nbsp;1.2 Dokumen-dokumen dalam proyek** 
 	<br>
-	**&nbsp;1.3  Evolusi SPMP **
+	**&nbsp;1.3  Evolusi SPMP**
 	<br>
-	**&nbsp;1.4  Material acuan **
+	**&nbsp;1.4  Material acuan**
 	<br>
 	**&nbsp;1.5  Definisi dan akronim (singkatan)**
 	<br>
