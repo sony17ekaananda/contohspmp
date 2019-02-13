@@ -3,6 +3,10 @@
 	<br>
 	**&nbsp;1.1 Gambaran proyek** 
 	<br>
+		&nbsp;Aplikasi ini merupakan aplikasi penyewaan jasa travel berbasis website yang mana client dapat melakukan booking secara online tanpa harus datang ke tempat penyewaan jasa travel tersebut. Selain itu, client dapat melakukan proses transaksi melalui aplikasi ini. Terdapat juga form tanya jawab antara admin dengan client apabila ada bagian informasi dalam website yang kurang dipahami oleh client.
+		Disini yang menjadi client adalah orang yang akan menyewa travel sedangkan admin adalah pemilik travel. Aplikasi ini dibuat untuk memudahkan client dalam proses penyewaan travel sehingga dapat mengefisienkan waktu penyewaan dan pembayaran.
+		Dalam aplikasi ini juga terdapat map yang mana akan menunjukan lokasi tempat client yang akan dijemput oleh travel.
+	<br>
 	**&nbsp;1.2 Dokumen-dokumen dalam proyek** 
 	<br>
 	**&nbsp;1.3  Evolusi SPMP**
