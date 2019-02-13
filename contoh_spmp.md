@@ -32,13 +32,12 @@
 	**&nbsp;1.5  Definisi dan akronim (singkatan)**
 	<br>
 		&nbsp;Dalam penulisan dokumen pembuatan proyek ini, ada beberapa kata yang mungkin akan sulit dipahami, diantaranya:
+		<br>
 			•	RFID adalah sebuah metode identifikasi dengan menggunakan sarana yang disebut label RFID atau transponder untuk menyimpan dan mengambil data jarak jauh.
+			<br>
 			•	IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses control dari lapisan data-link dari standar Ethernet berkabel.
-
-	<br>
-
-	<br>
-
+<br>
+<br>
 **2.Organisasi Proyek**
 	<br>
 	**&nbsp;2.1 Model proses**
