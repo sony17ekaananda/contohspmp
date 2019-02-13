@@ -15,6 +15,12 @@
 	<br>	
 	**&nbsp;1.3  Evolusi SPMP**
 	<br>
+		&nbsp;	Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan
+		dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan
+		dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal,
+		atapun mengubah dokumen tanpa dasar yang jelas.
+	<br>
+	<br>
 	**&nbsp;1.4  Material acuan**
 	<br>
 	**&nbsp;1.5  Definisi dan akronim (singkatan)**
