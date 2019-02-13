@@ -7,8 +7,12 @@
 		Disini yang menjadi client adalah orang yang akan menyewa travel sedangkan admin adalah pemilik travel. Aplikasi ini dibuat untuk memudahkan client dalam proses penyewaan travel sehingga dapat mengefisienkan waktu penyewaan dan pembayaran.
 		Dalam aplikasi ini juga terdapat map yang mana akan menunjukan lokasi tempat client yang akan dijemput oleh travel.
 	<br>
-	**&nbsp;1.2 Dokumen-dokumen dalam proyek** 
 	<br>
+	**&nbsp;1.2 Dokumen-dokumen dalam proyek** 
+	<br>	
+		&nbsp;Saat  mengerjakan  projek  ini,  pencatatan  kegiatan  yang  telah  dilakukan  ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai projek kegiatannya  dicatat  dalam  log  book,  selain  log  book  dokumen  yang  berkaitan dengan  projek  ini  meliputi  requirtments,  penjadwalan,  pembagian  tugas,  dan referensi-referensi yang berkaitan dengan pembuatan projek kami.
+	<br>
+	<br>	
 	**&nbsp;1.3  Evolusi SPMP**
 	<br>
 	**&nbsp;1.4  Material acuan**
