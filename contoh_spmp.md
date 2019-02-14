@@ -231,6 +231,20 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 <br>
 **5. Paket Pekerjaan, Jadwal, Dan Budget**
 <br>
+&nbsp;**5.1 Paket Pekerjaan**
+<br>
+&nbsp;&nbsp;Paket kerja yang akan dihasilkan dengan sebelumnya menentukan Work Breakdown Structure (WBS). Paket kerja yang dibuat dilihat dari sisi teknis, yang meliputi:
+<br>
+&nbsp;&nbsp;a. Penentuan waktu, biaya dan seluruh kegiatan yang akan dikerjakan didalam proyek.
+<br>
+&nbsp;&nbsp;b. Pengadaan peralatan dan komponen alat pendukung proyek.
+<br>
+&nbsp;&nbsp;c. Perancangan software dengan membuat source code dan mengkompilasinya.
+<br>
+&nbsp;&nbsp;d. Mengintegrasikan software dengan hardware, serta mengujicobanya.
+<br>
+&nbsp;&nbsp;e. Menginstalasikan produk yang telah dihasilkan.
+<br>
 &nbsp;**5.2 Ketergantungan dan Keterkaitan**
 <br>
 &nbsp;Dalam  proses  pengerjaan  proyek  yang  kami  buat  ini,  keterkaitan  dari  tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
@@ -245,6 +259,23 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 <br>
 &nbsp;Mungkin sementara yaitu budget nya masih kekurangan alat 
 <br>
+&nbsp;**5.5 Jadwal**
+<br>
+&nbsp;&nbsp;1. Kegiatan Persiapan
+<br>
+	&nbsp;&nbsp;&nbsp;a. Studi Kelayakan (minggu ke 1 & 2 bulan Februari)
+	<br>
+	&nbsp;&nbsp;&nbsp;b. Pengadaan peralatan/hardware (minggu ke 2 bulan Februari)
+	<br>
+	&nbsp;&nbsp;&nbsp;c. Analisis (minggu ke 3 bulan Februari)
+	<br>
+&nbsp;&nbsp;2. Pelaksanaan Proyek
+<br>
+	&nbsp;&nbsp;&nbsp;a. Pembuatan program/software (minggu ke 4 bulan Februari sampai minggu ke 4 bulan April)
+	<br>
+	&nbsp;&nbsp;&nbsp;b. Pengujian perangkat lunak (minggu ke 1 bulan Mei)
+	<br>
+&nbsp;&nbsp;3. Dokumentasi (minggi le 4 bulan April)
 <br>
 
 	
