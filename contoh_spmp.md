@@ -236,6 +236,11 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 &nbsp;Dalam  proses  pengerjaan  proyek  yang  kami  buat  ini,  keterkaitan  dari  tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
 <br>
 <br>
+**&nbsp;5.3 Kebutuhan-kebutuhan sumber daya**
+<br>
+&nbsp;Untuk pembuatan aplikasi ini akan dikerjakan oleh 3 (tiga) orang.
+<br>
+<br>
 &nbsp;**5.4 Alokasi Budget dan Sumber Daya**
 <br>
 &nbsp;Mungkin sementara yaitu budget nya masih kekurangan alat 
