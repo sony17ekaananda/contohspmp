@@ -99,18 +99,103 @@
 	<br>
 	&nbsp;&nbsp;d.	Database Administrator orang yanga berfungsi mengatur dan mengawasi sumber daya pada database yaitu data itu sendiri dan DBMS software, DBA bertanggung jawab untuk mangizinkan akses, memonitor dan mengkoordinasi database dan membeli software dan hardware yang dibutuhkan. Dan menyelesaikan masalah seperti kebobolan kemananan dan system respion yang lambat
 	<br>
+	<br>
 
 **3.Proses Manajerial**
 	<br>
 	**&nbsp;3.1 Tujuan dan prioritas manajemen**
 	<br>
+	**&nbsp;.3.1.1 Prioritas Jadwal**
+	<br>
+	&nbsp;Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan
+dibuat, dokumen projek, jadwal kegiatan, struktur pembuatan projek dan
+organisasi.
+	<br>
+	**&nbsp;3.1.2 Budget**
+	&nbsp;Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan
+requirtment proyek.
+	<br>
+	**&nbsp;3.1.3 Kemampuan (Kualitas dan reusability)**
+	&nbsp;Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen
+pembuatan proyek, juga berbasis web yang membuat konsumen merasa lebih
+budah dalam interaksinya.
+	<br>
+	<br>
 	**&nbsp;3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**
+	<br>
+	**&nbsp;3.2.1 Asumsi**
+	&nbsp;Adapun aplikasi yang sejenis aplikasi manajemen berbasis web, projek yang
+kami buat membutuhkan unit komputer sebagai media penghubungnya.
+	<br>
+	**&nbsp;3.2.2 Keterkaitan dan Batasan**
+	&nbsp;Dalam projek yang kami buat adapun beberapa software web yang
+mendukungnya, seperti laragon sebagai perantara mysql database. Namun ada
+batasannya, yaitu tidak bisa digunakan secara mobile.
 	<br>
 	**&nbsp;3.3 Manajemen resiko**
 	<br>
+	&nbsp;Estimasi biaya dan waktu yang
+tidak realitis:-Membuat berapa biaya etimasi
+	<br>	   -Desain untuk biaya
+	<br>	   -Merekam danmenganalisa project yang akan dibuat
+	<br>
+	&nbsp;Mengembangkan sofware yang
+salah:-Evaluasi project yang ditingkatkan
+<br>  -Buat metode spesifikasi yang formal
+<br>  -Survai pengguna
+<br>  -Buat prototype
+<br>
+	<br>
+	&nbsp;Terlambat membangun kebutuhan
+software:-Mengubah prosedur kendali
+	<br> -Membatasi perubahan terlalu banyak
+	<br> -Meningkatkan pengaembangan(akibat perubahan)
+	<br>
+	<br>
+	&nbsp;Kegagalan pada komponen-komponen:-Inspeksi
+	<br>								   -Analisis project yang akan dibuat
+	<br>								   -Keterbatasan bahan-bahan
+	<br>
+	<br>
+	&nbsp;Kegagalan kinerja real time:-Prosedur jaminan kualitas
+	<br>							  -Desain yang kompatitif
+	<br>							  -Membangun tim
+	<br>							  -Kesungguhan dalam tim
+	<br>
+	<br>
+	&nbsp;Pengembanganya terlalu sulit
+secara teknis:-Analisa teknis
+	<br>	  -Anlisa biaya maanfaat
+	<br>	  -Anlisa software
+	<br>
+	<br>
+	&nbsp;Kegalan menjalan tugas eksternal:-Simulasi software
+	<br>	                               -Benchmarking
+	<br>	                               -Simulasi
+	<br>	                               -Tuning
+	<br>	                               -Analisis teknis
+	<br>
+	<br>
 	**&nbsp;3.4 Mekanisme monitoring dan kontroling**
 	<br>
+	**&nbsp;3.4.1 Monitoring**
+	<br>
+	&nbsp;Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya
+dilakukan setiap hari senin.
+	<br>
+	**&nbsp;3.4.2 Kontroling**
+	<br>
+	&nbsp;Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil
+kerja proyek dapat dievaluasi pada hari terakhir kerja.
+	<br>
+	<br>
 	**&nbsp;3.5 Perencanaan staf**
+	<br>
+	**&nbsp;Tim project**
+	<br>Sony Eka Ananda 	: Manager
+	<br>Aduar Jendi			: Programmer
+	<br>Tika Surtikayati	: Sistem Analisi
+	<br>
 	<br>
 
 **4. Proses Teknis**
