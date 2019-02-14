@@ -42,11 +42,62 @@
 	<br>
 	**&nbsp;2.1 Model proses**
 	<br>
+	&nbsp;Disini kami menggunakan Model Waterfall dalam membangun system ini.
+	<br>
+	**&nbsp;&nbsp;2.1.1.	Definisi**
+	<br>
+&nbsp;&nbsp;Model waterfall adalah suatu proses pengembangan perangkat lunak berurutan, dimana kemajuan dipandang sebagai terus mengalir kebawah (seperti air terjun) melewati fase-fase perencanaan, pemodelan, implementasi (kontruksi) dan pengujian.
+<br>
+**&nbsp;&nbsp;2.1.2.	Tahapan**
+<br>
+&nbsp;&nbsp;a.	Tahap inisiasi adalah Analisa kebutuhan system yang akan dibuat dan harus dapat dimengerti oleh client dan developer. Pada tahap ini client harus dapat menjelaskan dan mendefinisikan tujuan dari system yang ingin dibangun.
+<br>
+&nbsp;&nbsp;b.	Tahap desain system, pada tahap ini developer merancang suatu arsitektur system berdasarkan hasil dari tahap sebelumnya yaitu tahap inisiasi.
+<br>
+&nbsp;&nbsp;c.	Tahap implementasi, dimana keseluruhan desain sistem yang telah disusun sebelumnya akan diubah menjadi kode-kode program dan modul-modul yang nantinya akan diintegrasikan menjadi sebuah sistem yang lengkap sesuai dengan kontrak kerja.
+<br>
+&nbsp;&nbsp;d.	Tahap berikutnya adalah integrasi dan testing. Pada tahap ini sistem yang sudah dibuat akan diintegrasikan dan di test untuk menguji apakah sistem tersebut telah berfungsi dengan baik dan yang tidak kalah penting adalah sesuai dengan kontrak yang telah disetujui.
+<br>
+&nbsp;&nbsp;e.	Tahap akhir adalah pemeliharaan yang termasuk diantaranya instalasi dan proses perbaikan sistem apabila ditemukan adanya kesalahan/bug yang tidak ditemukan pada tahap testing.
+<br>
+**&nbsp;&nbsp;2.1.3.	Keunggulan dan Manfaat**
+<br>
+&nbsp;&nbsp;Keunggulan model pendekatan pengembangan software dengan metode waterfall adalah pencerminan kepraktisan rekayasa, yang membuat kualitas software tetap terjaga karena pengembangannya yang terstruktur dan terawasi. Disisi lain model ini merupakan jenis model yang bersifat dokumen lengkap, sehingga proses pemeliharaan dapatdilakukan dengan mudah. Akan tetapi dikarenakan dokumentasi yang lengkap dan sangat teknis, membuat pihak klien sulit membaca dokumen yang berujung pada sulitnya komunikasi antar pengembang dan klien. Dokumentasi kode program yang lengkap juga secara tak langsung menghapus ketergantungan pengembang terhadap pemrogram yang keluar dari tim pengembang. Hal ini sangat menguntungkan bagi pihak pengembang dikarenakan proses pengembangan perangkat lunak tetap dapat dilanjutkan tanpa bergantung pada pemrogram tertentu.
+<br>
+**&nbsp;&nbsp;2.1.4.	Kelemahan**
+<br>
+&nbsp;&nbsp;Kelemahan pengembangan software dengan metode waterfall yang utama adalah lambatnya proses pengembangan perangkat lunak. Dikarenakan prosesnya yang satu persatu dan tidak bisa diloncat-loncatmenjadikan model klasik ini sangat memakan waktu dalam pengembangannya. Disisi lain pihak klien tidak dapatmencoba sistem sebelum sistem benar-benar selesai pembuatannya. Kelemahan yang lain adalah kinerja personil yang tidak optimal dan efisien karena terdapat proses menunggu suatu tahapan selesai terlebih dahulu. Secara keseluruhan model pendekatan pengembangan software dengan metode waterfall cocok untuk pengembangan software / perangkat lunak dengan tingkat resiko yang kecil, dan memiliki ukuran yang kecil serta waktu pengembangan yang cukup panjang. Model ini tidak disarankan untuk ukuran perangkat lunak yang besar dantingkat resiko yang besar.
+<br>
+	<br>
 	**&nbsp;2.2 Struktur Organisasi**
+	<br>
+	&nbsp;&nbsp;a.	Project Manager
+	<br>
+	&nbsp;&nbsp;b.	Programmer
+	<br>
+	&nbsp;&nbsp;c.	System Analis
+	<br>
+	&nbsp;&nbsp;d.	Database Administrator
 	<br>
 	**&nbsp;2.3 Batasan dan antarmuka organisasi**
 	<br>
+	&nbsp;&nbsp;a.	Project Manager harus menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya, project manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur dan untuk project manager sendiri tidak berhak semena-mena dengan jabatannya.
+	<br>
+	&nbsp;&nbsp;b.	Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program.
+	<br>
+	&nbsp;&nbsp;c.	System Analis bertugas memberikan gambaran project dan alur pengkoding pada programmer.
+	<br>
+	&nbsp;&nbsp;d.	Database Administrator bertugas menyusun database yang akan digunakan dalam project.
+	<br>
 	**&nbsp;2.4 Lingkup tanggung jawab**
+	<br>
+	&nbsp;&nbsp;a.	Project Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.
+	<br>
+	&nbsp;&nbsp;b.	Programmer, seorang programer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya.
+	<br>
+	&nbsp;&nbsp;c.	System Analis, banyak hal yang harus dilakukan oleh seorang sistem analis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari pemasalahan yang ada, dan dapat mengasilkan solusi yang tepat dari permasalahan tersebut. Menentukan sistem yang tepat merupakan bagian dari tugas seorang sistem analis, sehingga kinerja tim dapat berjalasan secara efesien.
+	<br>
+	&nbsp;&nbsp;d.	Database Administrator orang yanga berfungsi mengatur dan mengawasi sumber daya pada database yaitu data itu sendiri dan DBMS software, DBA bertanggung jawab untuk mangizinkan akses, memonitor dan mengkoordinasi database dan membeli software dan hardware yang dibutuhkan. Dan menyelesaikan masalah seperti kebobolan kemananan dan system respion yang lambat
 	<br>
 
 **3.Proses Manajerial**
