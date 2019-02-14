@@ -40,13 +40,16 @@
 <br>
 **2.Organisasi Proyek**
 	<br>
+	<br>
 	**&nbsp;2.1 Model proses**
 	<br>
 	&nbsp;Disini kami menggunakan Model Waterfall dalam membangun system ini.
 	<br>
+	<br>
 	**&nbsp;&nbsp;2.1.1.	Definisi**
 	<br>
 &nbsp;&nbsp;Model waterfall adalah suatu proses pengembangan perangkat lunak berurutan, dimana kemajuan dipandang sebagai terus mengalir kebawah (seperti air terjun) melewati fase-fase perencanaan, pemodelan, implementasi (kontruksi) dan pengujian.
+<br>
 <br>
 **&nbsp;&nbsp;2.1.2.	Tahapan**
 <br>
@@ -60,9 +63,11 @@
 <br>
 &nbsp;&nbsp;e.	Tahap akhir adalah pemeliharaan yang termasuk diantaranya instalasi dan proses perbaikan sistem apabila ditemukan adanya kesalahan/bug yang tidak ditemukan pada tahap testing.
 <br>
+<br>
 **&nbsp;&nbsp;2.1.3.	Keunggulan dan Manfaat**
 <br>
 &nbsp;&nbsp;Keunggulan model pendekatan pengembangan software dengan metode waterfall adalah pencerminan kepraktisan rekayasa, yang membuat kualitas software tetap terjaga karena pengembangannya yang terstruktur dan terawasi. Disisi lain model ini merupakan jenis model yang bersifat dokumen lengkap, sehingga proses pemeliharaan dapatdilakukan dengan mudah. Akan tetapi dikarenakan dokumentasi yang lengkap dan sangat teknis, membuat pihak klien sulit membaca dokumen yang berujung pada sulitnya komunikasi antar pengembang dan klien. Dokumentasi kode program yang lengkap juga secara tak langsung menghapus ketergantungan pengembang terhadap pemrogram yang keluar dari tim pengembang. Hal ini sangat menguntungkan bagi pihak pengembang dikarenakan proses pengembangan perangkat lunak tetap dapat dilanjutkan tanpa bergantung pada pemrogram tertentu.
+<br>
 <br>
 **&nbsp;&nbsp;2.1.4.	Kelemahan**
 <br>
@@ -79,6 +84,7 @@
 	<br>
 	&nbsp;&nbsp;d.	Database Administrator
 	<br>
+	<br>
 	**&nbsp;2.3 Batasan dan antarmuka organisasi**
 	<br>
 	&nbsp;&nbsp;a.	Project Manager harus menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya, project manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur dan untuk project manager sendiri tidak berhak semena-mena dengan jabatannya.
@@ -90,6 +96,7 @@
 	&nbsp;&nbsp;d.	Database Administrator bertugas menyusun database yang akan digunakan dalam project.
 	<br>
 	**&nbsp;2.4 Lingkup tanggung jawab**
+	<br>
 	<br>
 	&nbsp;&nbsp;a.	Project Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.
 	<br>
@@ -111,9 +118,11 @@
 dibuat, dokumen projek, jadwal kegiatan, struktur pembuatan projek dan
 organisasi.
 	<br>
+	<br>
 	**&nbsp;3.1.2 Budget**
 	&nbsp;Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan
 requirtment proyek.
+	<br>
 	<br>
 	**&nbsp;3.1.3 Kemampuan (Kualitas dan reusability)**
 	&nbsp;Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen
@@ -124,13 +133,16 @@ budah dalam interaksinya.
 	**&nbsp;3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**
 	<br>
 	**&nbsp;3.2.1 Asumsi**
+	<br>
 	&nbsp;Adapun aplikasi yang sejenis aplikasi manajemen berbasis web, projek yang
 kami buat membutuhkan unit komputer sebagai media penghubungnya.
+	<br>
 	<br>
 	**&nbsp;3.2.2 Keterkaitan dan Batasan**
 	&nbsp;Dalam projek yang kami buat adapun beberapa software web yang
 mendukungnya, seperti laragon sebagai perantara mysql database. Namun ada
 batasannya, yaitu tidak bisa digunakan secara mobile.
+	<br>
 	<br>
 	**&nbsp;3.3 Manajemen resiko**
 	<br>
@@ -176,12 +188,14 @@ secara teknis:-Analisa teknis
 	<br>	                               -Analisis teknis
 	<br>
 	<br>
+	<br>
 	**&nbsp;3.4 Mekanisme monitoring dan kontroling**
 	<br>
 	**&nbsp;3.4.1 Monitoring**
 	<br>
 	&nbsp;Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya
 dilakukan setiap hari senin.
+	<br>
 	<br>
 	**&nbsp;3.4.2 Kontroling**
 	<br>
@@ -199,25 +213,33 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 	<br>
 
 **4. Proses Teknis**
-	<br>
-	**&nbsp;4.1 Metoda, tool, dan tekn**
-	<br>
-	**&nbsp;4.2 Dokumentasi perangkat lunak**
-	<br>
-	**&nbsp;4.3 Fungsi-fungsi petunjuk proyek**
-	<br>
-
-**5. Paket pekerjaan, jadwal, dan budget**
-	<br>
-	**&nbsp;5.1 Paket pekerjaann**
-	<br>
-	**&nbsp;5.2 Ketergantungan/keterkaitan**
-	<br>
-	**&nbsp;5.3 Kebutuhan-kebutuhan sumber daya**
-	<br>
-	**&nbsp;5.4 Alokasi budget dan sumber daya**
-	<br>
-	**&nbsp;5.5 Jadwal**
-	<br>
+<br>
+&nbsp;**4.1 Metoda, tool, dan teknik**
+<br>
+	&nbsp;&nbsp;Metoda , tool, dan teknik yang kami gunakan yaitu dengan cara mengimputkan data yang digunakan sebagai indikator untuk menentukan nilai yang diharapkan. Tools yang kami gunakan yaitu Framework Laravel, Sublime Text 3, Adobe Xd, Photoshop.
+<br>
+<br>
+&nbsp;**4.2 Dokumentasi Perangkat Lunak**
+<br>
+	&nbsp;&nbsp;Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE,  karena  telah  menyediakan  kerangka  kerja  yang  menghubungkan  seluruh spektrum siklus hidup perangkat lunak.  
+<br>
+<br>
+&nbsp;**4.3  Fungsi-fungsi Pendukung Proyek**
+<br>
+	&nbsp;&nbsp;Di kelompok kami beranggotakan 3 orang yang dimana mendapatkan tugas nya masing masing, 1-3 Orang bagian coding program, 1 orang specialist database, dan 1-2 orang dibagian desain 
+<br>
+<br>
+**5. Paket Pekerjaan, Jadwal, Dan Budget**
+<br>
+&nbsp;**5.2 Ketergantungan dan Keterkaitan**
+<br>
+&nbsp;Dalam  proses  pengerjaan  proyek  yang  kami  buat  ini,  keterkaitan  dari  tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
+<br>
+<br>
+&nbsp;**5.4 Alokasi Budget dan Sumber Daya**
+<br>
+&nbsp;Mungkin sementara yaitu budget nya masih kekurangan alat 
+<br>
+<br>
 
 	
