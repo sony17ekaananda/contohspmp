@@ -275,7 +275,8 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 	<br>
 	&nbsp;&nbsp;&nbsp;b. Pengujian perangkat lunak (minggu ke 1 bulan Mei)
 	<br>
-&nbsp;&nbsp;3. Dokumentasi (minggi le 4 bulan April)
+&nbsp;&nbsp;3. Dokumentasi (minggu ke 4 bulan April)
+<br>
 <br>
 
 	
