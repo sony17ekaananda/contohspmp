@@ -1,6 +1,7 @@
 
 **1. Pendahuluan**
 	<br>
+	<br>
 	**&nbsp;1.1 Gambaran proyek** 
 	<br>
 		&nbsp;Aplikasi ini merupakan aplikasi penyewaan jasa travel berbasis website yang mana client dapat melakukan booking secara online tanpa harus datang ke tempat penyewaan jasa travel tersebut. Selain itu, client dapat melakukan proses transaksi melalui aplikasi ini. Terdapat juga form tanya jawab antara admin dengan client apabila ada bagian informasi dalam website yang kurang dipahami oleh client.
@@ -110,9 +111,10 @@
 
 **3.Proses Manajerial**
 	<br>
+	<br>
 	**&nbsp;3.1 Tujuan dan prioritas manajemen**
 	<br>
-	**&nbsp;.3.1.1 Prioritas Jadwal**
+	**&nbsp;3.1.1 Prioritas Jadwal**
 	<br>
 	&nbsp;Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan
 dibuat, dokumen projek, jadwal kegiatan, struktur pembuatan projek dan
@@ -214,6 +216,7 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 
 **4. Proses Teknis**
 <br>
+<br>
 &nbsp;**4.1 Metoda, tool, dan teknik**
 <br>
 	&nbsp;&nbsp;Metoda , tool, dan teknik yang kami gunakan yaitu dengan cara mengimputkan data yang digunakan sebagai indikator untuk menentukan nilai yang diharapkan. Tools yang kami gunakan yaitu Framework Laravel, Sublime Text 3, Adobe Xd, Photoshop.
@@ -278,5 +281,31 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 &nbsp;&nbsp;3. Dokumentasi (minggu ke 4 bulan April)
 <br>
 <br>
+<br>
+<br>
 
-	
+
+3. Kebutuhan Lain Yang Spesifik
+<br>
+<br>
+3.1 Performa 
+<br>
+&nbsp; &#183; Di jalankan desktop mana aja bisa
+&nbsp; &#183; Performa system sangat bergantung pada besarnya RAM desktop
+<br>
+<br>
+3.2 Keamanan Aplikasi
+<br>
+&nbsp; &#183; Keamanan login admin di sertai keamanan yang lumayan mempuni karena menggunakan framework yang lagi Up yaitu Laravel
+
+&nbsp; &#183; Di aplikasi terdapat nya fitur forgot password menggunakan email
+<br>
+<br>
+3.3 Keamanan Data
+<br>
+&nbsp; &#183;Data  member  meliputi  nama,  alamat,  nomor  telepon,  alamat  email dan password  harus  disimpan  secara  baik  dan  classified,  terutama  untuk  data password akan dilakukan enkripsi.
+
+&nbsp; &#183;Memberikan  pernyataan  informasi  kepada  user,  bahwa  system  ini  berbasis desktop dan menjamin data member akan aman.
+<br>
+<br>
+4 Informasi PendukungKebanyakan informasi pendukung kami dapatkan dari berbagai artikel, makalah, dan tugas akhir yang diperoleh dari internet.
