@@ -283,29 +283,3 @@ kerja proyek dapat dievaluasi pada hari terakhir kerja.
 <br>
 <br>
 <br>
-
-
-3. Kebutuhan Lain Yang Spesifik
-<br>
-<br>
-3.1 Performa 
-<br>
-&nbsp; &#183; Di jalankan desktop mana aja bisa
-&nbsp; &#183; Performa system sangat bergantung pada besarnya RAM desktop
-<br>
-<br>
-3.2 Keamanan Aplikasi
-<br>
-&nbsp; &#183; Keamanan login admin di sertai keamanan yang lumayan mempuni karena menggunakan framework yang lagi Up yaitu Laravel
-
-&nbsp; &#183; Di aplikasi terdapat nya fitur forgot password menggunakan email
-<br>
-<br>
-3.3 Keamanan Data
-<br>
-&nbsp; &#183;Data  member  meliputi  nama,  alamat,  nomor  telepon,  alamat  email dan password  harus  disimpan  secara  baik  dan  classified,  terutama  untuk  data password akan dilakukan enkripsi.
-
-&nbsp; &#183;Memberikan  pernyataan  informasi  kepada  user,  bahwa  system  ini  berbasis desktop dan menjamin data member akan aman.
-<br>
-<br>
-4 Informasi PendukungKebanyakan informasi pendukung kami dapatkan dari berbagai artikel, makalah, dan tugas akhir yang diperoleh dari internet.
