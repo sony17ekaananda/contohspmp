@@ -1,3 +1,23 @@
+**1.** **Pendahuluan** <br>
+   &nbsp;Software Requirement Specification (SRS) menjelaskan berbagai macam kebutuhan pembuatan suatu perangkat lunak. Dalam dokumen ini khususnya akan dibahas mengenai spesifikasi kebutuhan software untuk Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) yaitu kebutuhan spesifik yang terdiri dari kebutuhan fungsionalitas, termasuk didalamnya input, proses, output dan non-fungsionalitas. Kebutuhan antar muka yang terdiri dari kebutuhan antar pengguna, antar hardware yang menjelaskan kebutuhan yang harus ada untuk menjalankan atau mengoprasikan aplikasi sitem, kebutuhan antar software yang menjelaskan bagaimana cara pengguna berinteraksi dengan sistem, dan kebutuhan antar komunikasi. <br>
+	&nbsp;&nbsp;**1.1.** **Tujuan** <br>
+		 &nbsp;&nbsp;&nbsp;Tujuan dari penulisan dokumen Software Requirement Specification (SRS) ini adalah untuk mempermudah pengembang untuk mengembangkan perangkat lunak untuk Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) dan memberikan gambaran yang spesifik dari kebutuhan software untuk Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung). Spesfikasi kebutuhan tersebut dari segi perangkat lunak dan perangkat keras, untuk memberikan gambaran dan penjelasan mengenai pembuatan produk, penjelasan hal-hal yan dibutuhkan untuk pembuatan produk termasuk kebutuhan fungsional hingga non-fungsional, dan kebutuhan antar muka mulai dari antar muka pengguna hingga antar muka komunikasi. <br>
+	&nbsp;&nbsp;**1.2.** **Lingkup** <br>
+		 &nbsp;&nbsp;&nbsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Aplikasi ini memungkinkan pengguna dapat mengetahui informasi seputar kerupuk yang tersedia. Data informasi tersebut merupakan data asli yang diberikan oleh pemilik perusahaan kerupuk. <br>
+	&nbsp;&nbsp;**1.3.** **Definisi, akronim, singkatan** <br>
+		 &nbsp;&nbsp;&nbsp;SRS: Software Requirement Specifications (Spesifikasi kebutuhan perangkat lunak). <br>
+		 &nbsp;&nbsp;&nbsp;IEEE: Institute of Electrical and Electronics Engineer. <br>
+	&nbsp;&nbsp;**1.4.** **Referensi** <br>
+		 &nbsp;&nbsp;&nbsp;Standar IEEE nomor ANSI / IEEE Std 1058.1-1987 (reaffirmed 1993), 18 September 2004. <br>
+	&nbsp;&nbsp;**1.5.** **Overview** <br>
+		 &nbsp;&nbsp;&nbsp;Penulisan dokumen ini dibagi menjadi beberapa bab sebagai berikut: <br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;Bagian pertama berisi penjelasan tentang dokumen SPL yang mencakup tujuan pembuatan dokumen ini, lingkup maslaah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. <br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;Bagian kedua berisi tetang gambaran umum mengenai perspektif produk, manfaat produk, karakteristik user, batasan, asumsi dan ketergantungan yang digunakan.<br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;Bagian tiga menyediakan spesifikasi kebutuhan antarmuka, kebutuhan fungsional, kebutuhan non fungsional, lingkungan operasi dan batasan perancangan. <br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;Bagian empat berisi informasi pendukung yang dibutuhkan dalam dokumen ini.
+		 <br>
+		 <br>
+
 **2.**	**Gamabaran Umum**<br>
 	&emsp;**2.1**	**Perspektif produk**<br>
 		&emsp;&emsp;Pendefinisian Aplikasi Produksi Kerupuk ini yaitu untuk mempromosikan dan menjual kerupuk secara onine melalui web. Pembuatan Aplikasi promosi dan penjualan kerupuk bertujuan untuk membantu penjual dan pembeli dalam transaksi agar mudah dan praktis tanpa harus menggunakan kertas secara manual. <br>
