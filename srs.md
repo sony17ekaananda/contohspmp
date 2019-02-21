@@ -58,4 +58,35 @@
 		&emsp;&emsp;Tidak ada batasan untuk membeli produk kerupuk”.<br>
 	&emsp;**2.6**	**Kebutuhan – kebutuhan penyeimbang**
 		&emsp;&emsp;(CRequirements dan D-Requirements)
-		
+<br>
+<br>
+
+
+**3. Kebutuhan Lain Yang Spesifik**<br>
+<br>
+	&emsp;**3.1 Performa** 
+<br>
+		&nbsp;&nbsp; &#183; Di jalankan desktop mana aja bisa
+		&nbsp;&nbsp; &#183; Performa system sangat bergantung pada besarnya RAM desktop
+<br>
+<br>
+	&emsp;**3.2 Keamanan Aplikasi**
+<br>
+		&nbsp;&nbsp; &#183; Keamanan login admin di sertai keamanan yang lumayan mempuni karena menggunakan framework yang lagi Up yaitu Laravel
+<br>
+		&nbsp;&nbsp; &#183; Di aplikasi terdapat nya fitur forgot password menggunakan email
+<br>
+<br>
+&emsp;**3.3 Keamanan Data**
+<br>
+		&nbsp;&nbsp; &#183;Data  member  meliputi  nama,  alamat,  nomor  telepon,  alamat  email dan password  harus  disimpan  secara  baik  dan  classified,  terutama  untuk  data password akan dilakukan enkripsi.
+<br>
+		&nbsp;&nbsp; &#183;Memberikan  pernyataan  informasi  kepada  user,  bahwa  system  ini  berbasis desktop dan menjamin data member akan aman.
+<br>
+<br>
+**4. Informasi Pendukung** 
+<br>
+<br>
+&nbsp; &#183;Kebanyakan informasi pendukung kami dapatkan dari berbagai artikel, makalah, dan tugas akhir yang diperoleh dari internet.
+<br>
+<br>
