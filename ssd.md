@@ -34,6 +34,23 @@
 	&emsp;**6.2.** **Desain data secara rinci**<br>
 		&emsp;&emsp;**6.2.1.** **Rinci entiti data 1**<br>
 		&emsp;&emsp;**6.2.2.** **Rinci entiti data 2**<br>
+<br>
+<br>
+<br>
+<br>
+**1.** **Pendahuluan**<br>
+	&emsp;**1.1.** **Tujuan**<br>
+		&emsp;&emsp; Tujuan dalam membuat dokumen SDD (Software Design Description) ini adalah untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan di terapkan pada aplikasi simulasi management proyek RPL dan juga memberi definisi kebutuhan untuk sistem spesifikasi kebutuhan fungsional.<br>
+	&emsp;**1.2.** **Lingkup**<br>
+		 &emsp;&emsp;Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management proyek RPL berbasis website, ruang lingkup system ini mencangkup informasi mengenai antarmuka dari system tersebut.<br>
+	&emsp;**1.3.** **Definisi, akronim, dan singkatan**<br>
+		 &emsp;&emsp;Dalam penulisan dokumen pembuatan projek ini yang mungkin akan sulit dipahami berikut ini:<br>
+		 	&emsp;&emsp;&emsp;SSD:	Software Design Description<br>
+		 	&emsp;&emsp;&emsp;OOP:	Object Oriented Programing<br>
+		 	&emsp;&emsp;&emsp;User: 	Untuk pengguna system<br>
+**2.** **Referensi**<br>
+   &emsp;a. Modul KULIAH RPL 7 DOKUMEN SDD<br>
+   &emsp;b. Contoh Software Design Document (SDD) Moch. Bambang Sulistio<br>
 
 
 
