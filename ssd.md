@@ -53,7 +53,7 @@
 					&emsp;&emsp;&emsp;3. Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi<br>
 			   &emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Hak Akses:<br>
 					&emsp;&emsp;&emsp;* Membedakan antara user dan admin dalam hak ases<br>
-					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya juka terdaftar dalam user tidak memiliki hak ases penuh<br>
+					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya jika terdaftar dalam user tidak memiliki hak ases penuh<br>
 			   &emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan Nama Client:<br>
 					&emsp;&emsp;&emsp;* Mencatat nama aplikasi apa yang akna di buat dalam sebuah project<br>
 					&emsp;&emsp;&emsp;* Mencatat nama-nama kategori apa yang akan di buat di sebuah project<br>
@@ -62,8 +62,27 @@
 					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis target waktu aplikasi yang akan dibuat dalam sebuah project<br>
 					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis jumlah orang dalam sebuah project<br>
 					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis biaya dalam sebuah aplikasi yang akan di buat<br>
-
-
-&emsp;**3.2.** **Dekomposisi prosis konkuren**<br>
+	&emsp;**3.2.** **Dekomposisi prosis konkuren**<br>
+			&emsp;&emsp;Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat bersamaan. Konkurensi merupakan landasan umum perancangan sistem operasi.<br>
+			&emsp;&emsp;Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama.<br>
+			&emsp;&emsp;Pada proses-proses konkuren yang berinteraksi mempunyai beberapa masalah yang harus diselesaikan:<br>
+				&emsp;&emsp;&emsp;1. Mutual Exclusion<br>
+				&emsp;&emsp;&emsp;2. Sinkronisasi<br>
+				&emsp;&emsp;&emsp;3. Deadlock<br>
+				&emsp;&emsp;&emsp;4. Startvation<br>
+			&emsp;&emsp;Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, yaitu:<br>
+				&emsp;&emsp;&emsp;1. Proses-proses Saling Tidak Peduli (Independen).<br>
+					&emsp;&emsp;&emsp;&emsp;Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.<br>
+				&emsp;&emsp;&emsp;2. Proses-proses Saling Mempedulikan Secara Tidak Langsung.<br>
+					&emsp;&emsp;&emsp;&emsp;Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.<br>
+				&emsp;&emsp;&emsp;3. Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br>
+					&emsp;&emsp;&emsp;&emsp;a. Sistem operasi harus mengetahui proses-proses yang aktif<br>
+					&emsp;&emsp;&emsp;&emsp;b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, antara lain:<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;1. Waktu pemroses<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;2. Memori<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;3. Berkas-berkas<br>
+						&emsp;&emsp;&emsp;&emsp;&emsp;4. Perangkat I/<br>
+					&emsp;&emsp;&emsp;&emsp;c. Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses lain.<br>
+					&emsp;&emsp;&emsp;&emsp;d. Hasil-hasil proses harus independen terhadap kecepatan relatif proses-proses lain dimana eksekusi dilakukan.<br>
 &emsp;**3.3.** **Dekomposisi data**<br>
 
