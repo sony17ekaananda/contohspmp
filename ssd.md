@@ -8,14 +8,8 @@
 **2.** **Referensi**<br>
 **3.** **Penjelasan Dekomposisi**<br>
 	&emsp;**3.1.** **Dekomposisi modul**<br>
-		&emsp;&emsp;**3.1.1.** **Deskripsi modul 1**<br>
-		&emsp;&emsp;**3.1.2.** **Deskripsi modul 2**<br>
 	&emsp;**3.2.** **Dekomposisi prosis konkuren**<br>
-		&emsp;&emsp;**3.2.1.** **Deskripsi proses 1**<br>
-		&emsp;&emsp;**3.2.2.** **Deskripsi proses 2**<br>
 	&emsp;**3.3.** **Dekomposisi data**<br>
-		&emsp;&emsp;**3.3.1.** **Deskripsi entri data 1**<br>
-		&emsp;&emsp;**3.3.2.** **Deskripsi entri data 2**<br>
 **4.** **Deskripsi Ketergantungan/Keterkaitan**<br>
 	&emsp;**4.1.** **Keterkaitan inter modul**<br>
 	&emsp;**4.2.** **Keterkaitan inter proses**<br>
@@ -51,6 +45,25 @@
 **2.** **Referensi**<br>
    &emsp;a. Modul KULIAH RPL 7 DOKUMEN SDD<br>
    &emsp;b. Contoh Software Design Document (SDD) Moch. Bambang Sulistio<br>
+**3.** **Penjelasan Dekomposisi**
+	&emsp;**3.1.** **Dekomposisi modul**<br>
+			   &emsp;&emsp;Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut:<br>
+					&emsp;&emsp;&emsp;1. Pencatatan Hak Akses<br>
+					&emsp;&emsp;&emsp;2. Pencatatan Nama aplikasi , Nama Kategori dan Nama Client<br>
+					&emsp;&emsp;&emsp;3. Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi<br>
+			   &emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Hak Akses:<br>
+					&emsp;&emsp;&emsp;* Membedakan antara user dan admin dalam hak ases<br>
+					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya juka terdaftar dalam user tidak memiliki hak ases penuh<br>
+			   &emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan Nama Client:<br>
+					&emsp;&emsp;&emsp;* Mencatat nama aplikasi apa yang akna di buat dalam sebuah project<br>
+					&emsp;&emsp;&emsp;* Mencatat nama-nama kategori apa yang akan di buat di sebuah project<br>
+					&emsp;&emsp;&emsp;* Mencatat nama client yang mau di buat kan sebuah project<br>
+			   &emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi:<br>
+					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis target waktu aplikasi yang akan dibuat dalam sebuah project<br>
+					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis jumlah orang dalam sebuah project<br>
+					&emsp;&emsp;&emsp;* Sistem dapat memproses secara otomatis biaya dalam sebuah aplikasi yang akan di buat<br>
 
 
+&emsp;**3.2.** **Dekomposisi prosis konkuren**<br>
+&emsp;**3.3.** **Dekomposisi data**<br>
 
